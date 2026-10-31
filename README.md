@@ -1,5 +1,7 @@
 # NewsMag
 
+**Live demo:** https://newsmag-black.vercel.app
+
 A React + Vite news app built with Bootstrap 5, powered by [NewsAPI](https://newsapi.org).
 
 ## Features
